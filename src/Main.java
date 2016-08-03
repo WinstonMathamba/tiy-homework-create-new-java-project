@@ -2,12 +2,13 @@
  * Created by win808mac on 8/3/16.
  */
 public class Main {
-    /* I created a Main class above */
-}
-    public static void main(String[] args) {
-        /* I created a Main method and i'm about to write the method code
+    /** I created a Main class above **/
 
-         */
+    public static void main(String[] args){
+        /** I created a Main method and i'm about to write the method code
+
+         **/
+
         int myAge = 39;
         String myName = ("WinstonM");
         int numberOfKids = 1;
@@ -24,11 +25,13 @@ public class Main {
          */
         System.out.println("Hello, I'm " + myName);
         System.out.println("I am " + myAge + " years old.");
-        System.out.println("I have " + numberOfKids + " kid");
+        System.out.println("I have " + numberOfKids + " kid.");
         System.out.println("His name is " + kidsName);
         System.out.println("I'm taking a course in " + courseName);
-        System.out.println("It will run for " + courseLength + " Months");
-        System.out.println("I have a total of " + totalFingersLeftHand + totalFingersRightHand + " fingers");
-        
+        System.out.println("It will run for " + courseLength + " Months.");
+        System.out.println("I have a total of " + totalFingersLeftHand + totalFingersRightHand + " fingers.");
+        System.out.println("I see through " + totalEyeballs + " eyes.");
+
+
     }
 }

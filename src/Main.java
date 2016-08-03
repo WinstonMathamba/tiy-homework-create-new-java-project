@@ -18,7 +18,7 @@ public class Main {
         int totalFingersLeftHand = 05;
         int totalFingersRightHand = 05;
         int totalEyeballs = 2;
-        boolean awesome = true;
+        String imFeeling = ("Awesome!");
 
         /* i've assigned some values to variables so now i'm going to output
         with the next few lines of code
@@ -31,7 +31,7 @@ public class Main {
         System.out.println("It will run for " + courseLength + " Months.");
         System.out.println("I have a total of " + totalFingersLeftHand + totalFingersRightHand + " fingers.");
         System.out.println("I see through " + totalEyeballs + " eyes.");
-
+        System.out.println("I'm feeling "+ imFeeling);
 
     }
 }

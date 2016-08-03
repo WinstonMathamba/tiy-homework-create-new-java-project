@@ -19,5 +19,16 @@ public class Main {
         int totalEyeballs = 2;
         boolean awesome = true;
 
+        /* i've assigned some values to variables so now i'm going to output
+        with the next few lines of code
+         */
+        System.out.println("Hello, I'm " + myName);
+        System.out.println("I am " + myAge + " years old.");
+        System.out.println("I have " + numberOfKids + " kid");
+        System.out.println("His name is " + kidsName);
+        System.out.println("I'm taking a course in " + courseName);
+        System.out.println("It will run for " + courseLength + " Months");
+        System.out.println("I have a total of " + totalFingersLeftHand + totalFingersRightHand + " fingers");
+        
     }
 }

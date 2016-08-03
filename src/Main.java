@@ -20,9 +20,9 @@ public class Main {
         int totalEyeballs = 2;
         String imFeeling = ("Awesome!");
 
-        /* i've assigned some values to variables so now i'm going to output
+        /** i've assigned some values to variables so now i'm going to output
         with the next few lines of code
-         */
+         **/
         System.out.println("Hello, I'm " + myName);
         System.out.println("I am " + myAge + " years old.");
         System.out.println("I have " + numberOfKids + " kid.");
